@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-print('++++++++++++++++++  CSKM Public School   +++++++++++++')
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++')
 print('                   Welcome to Teacher Module         ')
 print('-------------Select the correct choice to work on Teacher Module-------')
 option = 1
