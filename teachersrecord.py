@@ -31,7 +31,7 @@ while (option != 6):
         dfTeacher.loc[totalTeacher] = [TeacherNo,name,Subject,Experience]
         print('--------------OUTPUT-----------------')
         print('Teacher Added....')
-        dfTeacher.to_csv('lol.csv',header=False,index=False)
+        dfTeacher.to_csv('teachers.csv',header=False,index=False)
         print(dfTeacher)
         print('-------------------------------------')
     # Code for updation    
