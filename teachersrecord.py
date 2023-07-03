@@ -5,7 +5,7 @@ print('+++++++++++++++++++++++++++++++++++++++++++++++++++++')
 print('                   Welcome to Teacher Module         ')
 print('-------------Select the correct choice to work on Teacher Module-------')
 option = 1
-dfTeacher=pd.read_csv('lol.csv',header=None,names=['TNO','Name','Subject','Experience'])
+dfTeacher=pd.read_csv('teachers.csv',header=None,names=['TNO','Name','Subject','Experience'])
 
 while (option != 6):
     print()
